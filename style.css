@@ -1,6 +1,6 @@
-html {
+body{
     height: 100%;
-    width: 100%;
+    width: 102%;
     background: #223;
     display: grid;
     place-items: center;
