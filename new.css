@@ -107,10 +107,10 @@
       font-weight: 500;
       color: #ffffff80;
       text-shadow: none;
-      background: black;
+      background: rgba(24, 20, 20, 0.987);
       cursor: pointer;
       box-shadow: transparent;
-      border: 1px solid black;
+      border: 1px solid rgba(24, 20, 20, 0.987);
       transition: 0.5s ease;
       user-select: none;
       color: rgb(248, 243, 243);
@@ -118,9 +118,11 @@
     
     #btn:hover,
     :focus {
+      margin-top: 20px;
+      margin-left: 22px;
       color: #ffffff;
-      background: #008cff;
-      border: 1px solid black;
+      background: #008cffb6;
+      border: none;
       text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff;
       box-shadow: 0 0 5px #008cff, 0 0 20px #008cff, 0 0 50px #008cff,
         0 0 100px #008cff;
