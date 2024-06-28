@@ -23,4 +23,3 @@ MADE BY:<br>
 <br>
 AAROHI DIXIT<br>
 AADHYA ARORA<br>
-ANSHIKA MONGA<br>
